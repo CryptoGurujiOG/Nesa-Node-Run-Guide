@@ -46,3 +46,9 @@ sudo apt install screen -y
 ```
 screen -S nesa
 ```
+
+## Install Python Dependencies:
+
+```
+sudo apt install -y python3-dev build-essential libffi-dev libssl-dev pkg-config
+```
