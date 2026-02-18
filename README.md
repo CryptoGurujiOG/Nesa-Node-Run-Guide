@@ -24,7 +24,7 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 ```
 sudo apt update && sudo apt upgrade -y
 ```
-# Step 3:
+# Step 2:
 
 ## Install Docker:
 
