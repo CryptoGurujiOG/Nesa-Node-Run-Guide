@@ -102,6 +102,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Press Enter
 - Select Continue and Press Enter
 
+---
+
 ## Create API key (Access Token):
 
 - Visit: https://huggingface.co/
@@ -116,3 +118,6 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Enter Token name: like Nesa Node etc
 - Scroll down and click Create token
 - Copy and save your Access Token
+
+---
+
