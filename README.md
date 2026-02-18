@@ -23,16 +23,13 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 
 ```
 sudo apt update && sudo apt upgrade -y
-
 ```
 ## Install Docker:
 
 ```
-
 sudo apt install -y ca-certificates curl gnupg lsb-release
 curl -fsSL https://get.docker.com | sh
 sudo usermod -aG docker $USER
 newgrp docker
 docker --version
-
 ```
