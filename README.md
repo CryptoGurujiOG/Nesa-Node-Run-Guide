@@ -3,7 +3,7 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 
 ![image alt](https://github.com/CryptoGurujiOG/Nesa-Node-Run-Guide/blob/667769218059ce07719717b36bfed58f15b8d2ea/Image1.jpg)
 
-## Minimum Hardware Requirements
+## Minimum Hardware Requirements:
 
 - CPU: 4 Cores minimum
 - RAM: 8 GB minimum
