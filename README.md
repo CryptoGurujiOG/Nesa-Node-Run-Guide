@@ -26,9 +26,9 @@ sudo apt update && sudo apt upgrade -y
 ```
 # Step 2:
 
-## Install Docker:
-
 - 🖥️ PC and Laptop users: Install and run the latest version of Docker Desktop on your device - [Link](https://www.docker.com/products/docker-desktop/)
+
+## Install Docker:
 
 ```
 sudo apt install -y ca-certificates curl gnupg lsb-release
