@@ -102,7 +102,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Press Enter
 - Select Continue and Press Enter
 
-## Create API key (access code):
+## Create API key (Access Token):
 
 - Visit: https://huggingface.co/
 - Click Sign Up
