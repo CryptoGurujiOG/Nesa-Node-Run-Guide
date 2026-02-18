@@ -9,3 +9,10 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 - RAM: 8 GB minimum
 - Storage: 100 GB SSD minimum
 - Internet: Stable connection
+
+---
+
+- If you want to run verifier node on your pc/laptop, then install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
+- If you want to run verifier node on a VPS then watch my video guide 👉 [Video](https://youtu.be/NK431xjj7yA)
+
+---
