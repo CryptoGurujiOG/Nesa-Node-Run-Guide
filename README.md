@@ -24,6 +24,8 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+# Step 3:
+
 ## Install Docker:
 
 ```
@@ -33,6 +35,8 @@ sudo usermod -aG docker $USER
 newgrp docker
 docker --version
 ```
+
+# Step 3:
 
 ## Install Screen to Run Node in Background:
 
@@ -46,6 +50,8 @@ sudo apt install screen -y
 ```
 screen -S nesa
 ```
+
+# Step 4:
 
 ## Install Python Dependencies:
 
@@ -77,6 +83,8 @@ pip install --prefer-binary \
   betterproto \
   ripemd-hash
 ```
+
+# Step 5:
 
 ## Run Nesa Bootstrap Script:
 
