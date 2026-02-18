@@ -138,6 +138,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 ## Claim Testnet $NES Tokens:
 
+Option 1
+
 - Visit: https://beta.nesa.ai/
 - Register your account
 - Click Wallet (top right corner)
@@ -150,6 +152,9 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Click Send, Paste node wallet address
 - Enter amount 1 NES
 - Click Next and Appprove
+
+Option 2
+
 - You can ask testnet $NES in our Telegram chat group: [Join](https://t.me/CryptoGurujiOG/3444)
 
 ---
