@@ -12,7 +12,7 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 
 ---
 
-- If you want to run verifier node on your pc/laptop, then install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
-- If you want to run verifier node on a VPS then watch my video guide 👉 [Video](https://youtu.be/NK431xjj7yA)
+- If you want to run Nesa node on your pc/laptop, then install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
+- If you want to run Nesa node on a VPS then watch my video guide 👉 [Video](https://youtu.be/NK431xjj7yA)
 
 ---
