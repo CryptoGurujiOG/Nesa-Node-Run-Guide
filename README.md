@@ -93,3 +93,11 @@ pip install --prefer-binary \
 ```
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
 ```
+
+# When prompted:
+
+- Choose Node Name and Enter
+- Select Continue and Enter
+- Enter referral 👉 `nesa1rgl2hxy07jmu7dfpyhjdl4fh9qqvl2vq50d3cc` and Enter
+- Select Continue and Enter
+
