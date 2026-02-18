@@ -94,7 +94,7 @@ pip install --prefer-binary \
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
 ```
 
-# When prompted:
+## When prompted:
 
 - Choose Node Name and Press Enter
 - Select Continue and Press Enter
