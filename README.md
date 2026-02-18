@@ -117,7 +117,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Click on Profile icon
 - Select Access Tokens
 - Click Create new token
-- Enter Token name: like Nesa Node etc
+- Enter Token name: like Nesa Node, etc
 - Scroll down and click Create token
 - Copy and save your Access Token
 
@@ -127,7 +127,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Select Continue and Press Enter
 - Select Generate new wallet and Press Enter
 - Save Private Key, Wallet Address, and Public Key (important)
-- Click Yes, I have saved it and Press Enter
+- Click Yes, I have saved it, and Press Enter
 - Select Check Balance and Press Enter
 - Fund Your Wallet
 - Copy node wallet address
@@ -150,6 +150,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Click Send, Paste node wallet address
 - Enter amount 1 NES
 - Click Next and Appprove
+
+- You can ask testnet $NES in my Telegram chat group: [Join](https://t.me/CryptoGurujiOG/3444)
 
 ---
 
