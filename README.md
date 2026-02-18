@@ -128,7 +128,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Click Yes, I have saved it and Press Enter
 - Select Check Balance and Press Enter
 - Fund Your Wallet
-- Copy wallet address
+- Copy node wallet address
 
 ---
 
@@ -143,6 +143,24 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Open your Keplr wallet
 - Click Deposit, Search Nesa, and Enable it
 - Click Send, Search Nesa, and select it
-- Click Send, Paste wallet address, and Enter amount 1 NES
+- Click Send, Paste node wallet address
+- Enter amount 1 NES
 - Click Next and Appprove
+
 ---
+
+- Select Check Balance and Press Enter
+- Select Continue and Press Enter
+- Select Start Node Now and Press Enter
+- Deposit amount (NES): 0.1 and Press Enter
+- Select Next and Press Enter
+- Select Submit Deposit and Press Enter
+- Select Back and Press Enter
+- Now your node is running and contributing
+
+## You can restart, stop, and check Node status using this command:
+
+```
+bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
+```
+
