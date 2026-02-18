@@ -52,3 +52,34 @@ screen -S nesa
 ```
 sudo apt install -y python3-dev build-essential libffi-dev libssl-dev pkg-config
 ```
+
+## Create Virtual Environment:
+
+```
+python3 -m venv ~/.nesa/venv
+source ~/.nesa/venv/bin/activate
+```
+
+## Upgrade Pip:
+
+```
+pip install --upgrade pip setuptools wheel
+```
+
+## Install Required Packages:
+
+```
+pip install --prefer-binary \
+  ecdsa \
+  base58 \
+  mospy-wallet \
+  httpx \
+  betterproto \
+  ripemd-hash
+```
+
+## Run Nesa Bootstrap Script:
+
+```
+bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
+```
