@@ -172,7 +172,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 screen -r nesa
 ```
 
-## You can restart, stop, and check Node status using this command:
+- You can restart, stop, and check Node status using this command:
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
