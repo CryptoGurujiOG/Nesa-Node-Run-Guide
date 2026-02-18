@@ -104,6 +104,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 ---
 
+# Step 6:
+
 ## Create API key (Access Token):
 
 - Visit: https://huggingface.co/
@@ -131,6 +133,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Copy node wallet address
 
 ---
+
+# Step 7:
 
 ## Claim Testnet $NES Tokens:
 
