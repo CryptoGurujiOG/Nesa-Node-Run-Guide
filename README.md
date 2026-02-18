@@ -174,7 +174,11 @@ Go back to the Terminal
 
 ## Detach screen safely, it will keep Node Running in the Background:
 
-- To Detach Press: CTRL + A + D
+## Detach Screen:
+
+```
+CTRL + A + D
+```
 
 ## Reattach Screen:
 
