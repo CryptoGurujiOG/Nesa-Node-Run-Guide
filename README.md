@@ -185,4 +185,4 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 - Twitter: https://x.com/CryptoGurujiOG
 - Youtube: https://www.youtube.com/@CryptoGurujiOG
-- Telegram: https://www.telegram.me/cryptogurujiog
+- Telegram: https://t.me/CryptoGurujiOG
