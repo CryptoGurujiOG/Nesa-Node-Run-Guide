@@ -150,7 +150,6 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Click Send, Paste node wallet address
 - Enter amount 1 NES
 - Click Next and Appprove
-
 - You can ask testnet $NES in our Telegram chat group: [Join](https://t.me/CryptoGurujiOG/3444)
 
 ---
