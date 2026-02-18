@@ -33,3 +33,10 @@ sudo usermod -aG docker $USER
 newgrp docker
 docker --version
 ```
+
+## Install Screen to Run Node in Background:
+
+```
+sudo apt update
+sudo apt install screen -y
+```
