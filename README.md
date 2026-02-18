@@ -121,3 +121,26 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 ---
 
+- Paste the API key (Access Token) and Press Enter
+- Select Continue and Press Enter
+- Select Generate new wallet and Press Enter
+- Save Private Key, Wallet Address, and Public Key (important)
+- Click Yes, I have saved it and Press Enter
+- Select Check Balance and PRess Enter
+- Fund Your Wallet
+- Copy wallet address
+
+---
+
+- Visit: https://beta.nesa.ai/
+- Register your account
+- Click Wallet (top right corner)
+- Click Nesa Faucet (top right corner)
+- Connect your Keplr wallet
+- Click Request Tokens
+- Open your Keplr wallet
+- Click Deposit, Search Nesa and Enable it
+- Click Send, Search Nesa and Select it
+- Click Send, Paste wallet address and Enter amount 1 NES
+- Click Next and Appprove
+---
