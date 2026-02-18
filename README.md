@@ -3,7 +3,7 @@ In this step-by-step walkthrough, I’ll show you how to set up and run a Nesa M
 
 ## Minimum Hardware
 
-- CPU: 4 cores
+- CPU: 4 Cores minimum
 - RAM: 8 GB minimum
 - Storage: 100 GB SSD recommended
 - Internet: Stable connection
