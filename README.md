@@ -162,6 +162,10 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Select Back and Press Enter
 - Now your node is running and contributing
 
+## Detach screen safely, it will keep Node Running in the Background:
+
+CTRL + A + D
+
 ## You can restart, stop, and check Node status using this command:
 
 ```
