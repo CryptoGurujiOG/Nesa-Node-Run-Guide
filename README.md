@@ -113,6 +113,6 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Click on Profile icon
 - Select Access Tokens
 - Click Create new token
-- Enter Token name: like Nesa Node Mac
+- Enter Token name: like Nesa Node etc
 - Scroll down and click Create token
 - Copy and save your Access Token
