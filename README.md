@@ -164,7 +164,13 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 ## Detach screen safely, it will keep Node Running in the Background:
 
-CTRL + A + D
+- Detach screen safely: CTRL + A + D
+
+## Reattach Screen:
+
+```
+screen -r nesa
+```
 
 ## You can restart, stop, and check Node status using this command:
 
