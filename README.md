@@ -123,6 +123,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 ---
 
+Go back to the Terminal
+
 - Paste the API key (Access Token) and Press Enter
 - Select Continue and Press Enter
 - Select Generate new wallet and Press Enter
@@ -158,6 +160,8 @@ Option 2
 - You can ask testnet $NES in our Telegram chat group: [Join](https://t.me/CryptoGurujiOG/3444)
 
 ---
+
+Go back to the Terminal
 
 - Select Check Balance and Press Enter
 - Select Continue and Press Enter
