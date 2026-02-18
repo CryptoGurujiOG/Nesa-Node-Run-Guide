@@ -102,3 +102,15 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 - Press Enter
 - Select Continue and Press Enter
 
+- Visit: https://huggingface.co/
+- Click Sign Up
+- Enter email, Create password & Enter
+- Create username, Enter Full name
+- Click Create Account
+- Open your mail and confirm your email
+- Click on Profile icon
+- Select Access Tokens
+- Click Create new token
+- Enter Token name: like Nesa Node Mac
+- Scroll down and click Create token
+- Copy and save your Access Token
