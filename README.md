@@ -177,4 +177,12 @@ screen -r nesa
 ```
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
 ```
+---
 
+⚠️  I will share a step-by-step video guide on my Twitter and YouTube very soon.
+
+📢 Make sure to follow us for regular updates
+
+- Twitter: https://x.com/CryptoGurujiOG
+- Youtube: https://www.youtube.com/@CryptoGurujiOG
+- Telegram: https://www.telegram.me/cryptogurujiog
