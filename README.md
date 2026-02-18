@@ -40,3 +40,9 @@ docker --version
 sudo apt update
 sudo apt install screen -y
 ```
+
+## Create Screen:
+
+```
+screen -S nesa
+```
