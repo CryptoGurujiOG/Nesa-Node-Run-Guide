@@ -96,8 +96,8 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 # When prompted:
 
-- Choose Node Name and Enter
-- Select Continue and Enter
-- Enter referral 👉 `nesa1rgl2hxy07jmu7dfpyhjdl4fh9qqvl2vq50d3cc` and Enter
-- Select Continue and Enter
+- Choose Node Name and Press Enter
+- Select Continue and Press Enter
+- Enter referral 👉 `nesa1rgl2hxy07jmu7dfpyhjdl4fh9qqvl2vq50d3cc` and Press Enter
+- Select Continue and Press Enter
 
