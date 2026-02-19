@@ -28,7 +28,7 @@ sudo apt update && sudo apt upgrade -y
 
 - 🖥️ PC and Laptop users: Install and run the latest version of Docker Desktop on your device - [Link](https://www.docker.com/products/docker-desktop/)
 
-## Install Docker:
+## Install Docker (FOR VPS):
 
 ```
 sudo apt install -y ca-certificates curl gnupg lsb-release
@@ -55,7 +55,7 @@ screen -S nesa
 
 # Step 4:
 
-## Install Python Dependencies:
+## Install Python Dependencies (FOR VPS):
 
 ```
 sudo apt update
