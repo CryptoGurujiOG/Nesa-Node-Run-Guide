@@ -58,6 +58,7 @@ screen -S nesa
 ## Install Python Dependencies:
 
 ```
+sudo apt update
 sudo apt install -y python3-dev build-essential libffi-dev libssl-dev pkg-config
 ```
 
@@ -65,8 +66,14 @@ sudo apt install -y python3-dev build-essential libffi-dev libssl-dev pkg-config
 
 ```
 python3 -m venv ~/.nesa/venv
+```
+
+## Activate it:
+
+```
 source ~/.nesa/venv/bin/activate
 ```
+
 
 ## Upgrade Pip:
 
