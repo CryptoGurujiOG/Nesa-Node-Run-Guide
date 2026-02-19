@@ -55,12 +55,14 @@ screen -S nesa
 
 # Step 4:
 
-## Install Python Dependencies (FOR VPS):
+## Install Python Dependencies:
 
 ```
 sudo apt update
 sudo apt install -y python3-dev build-essential libffi-dev libssl-dev pkg-config
 ```
+
+# FOR VPS:
 
 ## Create Virtual Environment:
 
